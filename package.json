@@ -1,12 +1,12 @@
 {
   "name": "inmo-tsdx-demo-lib-1",
   "author": "CristianG540",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "UNLICENSED",
   "repository": {
-		"type": "git",
-		"url": "git+https://github.com/CristianG540/tsdx-tailwind-storybook-lib-starter-pack.git"
-	},
+    "type": "git",
+    "url": "git+https://github.com/CristianG540/tsdx-tailwind-storybook-lib-starter-pack.git"
+  },
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
