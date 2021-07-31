@@ -1,5 +1,5 @@
 {
-  "name": "tsdxtestlib1",
+  "name": "inmo-tsdx-demo-lib-1",
   "author": "CristianG540",
   "version": "0.1.0",
   "license": "UNLICENSED",
@@ -24,7 +24,8 @@
     "size": "size-limit",
     "analyze": "size-limit --why",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "release": "np"
   },
   "husky": {
     "hooks": {
@@ -79,6 +80,7 @@
     "eslint-plugin-react-hooks": "^4.2.0",
     "eslint-plugin-testing-library": "^4.10.1",
     "husky": "^7.0.1",
+    "np": "^7.5.0",
     "postcss": "^8.3.6",
     "prettier": "2.3.2",
     "react": "^17.0.2",
